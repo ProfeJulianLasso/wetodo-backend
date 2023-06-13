@@ -1,4 +1,4 @@
-import { ValueObjectBase } from '../../base/value-object.base';
+import { ValueObjectBase } from '../../bases/value-object.base';
 
 const FIELD_NAME = 'username';
 const MIN_LENGTH = 4;
